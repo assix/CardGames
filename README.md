@@ -16,7 +16,7 @@ These projects focus on procedural graphics (no external assets required) and sm
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/your-repo-name.git
+   git clone https://github.com/assix/CardGames.git
    cd your-repo-name
    \`\`\`
 
