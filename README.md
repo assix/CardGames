@@ -9,6 +9,7 @@ These projects focus on procedural graphics (no external assets required) and sm
 | :--- | :--- | :--- |
 | **[Crazy 8s](./crazy8)** | The classic shedding card game. Match rank or suit. 8s are wild. | \`python3 crazy8/crazy8.py\` |
 | **[UNO](./uno)** | The famous color-matching game with Action cards (Skip, Reverse, Draw 2/4). | \`python3 uno/uno.py\` |
+| **[Solitaire](./solitaire)** | The famous Solitaire game featuring procedural vector graphics and zero external assets. | \`python3 solitaire/solitaire.py\` |
 
 *(More games coming soon...)*
 
