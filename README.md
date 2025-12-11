@@ -18,7 +18,7 @@ These projects focus on procedural graphics (no external assets required) and sm
 1. **Clone the repository:**
    \`\`\`bash
    git clone https://github.com/assix/CardGames.git
-   cd your-repo-name
+   cd CardGames
    \`\`\`
 
 2. **Install Dependencies:**
