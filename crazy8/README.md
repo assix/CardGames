@@ -29,8 +29,8 @@ pip install pygame
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/crazy8-python.git
-   cd crazy8-python
+   git clone https://github.com/assix/CardGames.git
+   cd CardGames/crazy8-python
    \`\`\`
 
 2. **Run the game:**
