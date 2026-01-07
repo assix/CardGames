@@ -11,7 +11,7 @@ These projects focus on procedural graphics (no external assets required) and sm
 | **[UNO](./uno)** | The famous color-matching game with Action cards (Skip, Reverse, Draw 2/4). | \`python3 uno/uno.py\` |
 | **[Solitaire](./solitaire)** | The famous Solitaire game featuring procedural vector graphics and zero external assets. | \`python3 solitaire/solitaire.py\` |
 | **[BlackJack](./blackjack)** | The famous casino style Blackjack game with betting, split/stand logic. | \`python3 blackjack/blackjack.py\` |
-
+| **[Brick Breaker](./BrickBreaker)** | Classic arcade game with dynamic physics, 5 lives, and randomized layouts. | \`python3 BrickBreaker/main.py\` |
 
 *(More games coming soon...)*
 
